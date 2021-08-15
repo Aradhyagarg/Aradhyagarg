@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aradhyagarg&label=Profile%20views&color=0e75b6&style=flat" alt="aradhyagarg" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aradhyagarg" alt="aradhyagarg" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aradhyagarg" alt="aradhyagarg" /></a>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> </p>
 
 - 🔭 I’m currently working on **Front-end and backend skills**
 
