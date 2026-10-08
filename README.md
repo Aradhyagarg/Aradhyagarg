@@ -74,62 +74,39 @@
 
 ## 🚀 Featured Projects
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">☁️ SkyFlow — Cloud Booking Engine</h3>
-      <p align="center">
-        <a href="https://sky-flow-frontend.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Live SkyFlow" /></a>
-      </p>
-      <ul>
-        <li><b>Microservice Architecture</b>: Architected Node.js microservices behind an API Gateway to cleanly decouple search & booking modules.</li>
-        <li><b>Concurrency & Race Conditions</b>: Eliminated double-bookings under peak traffic using <b>Redis Distributed Locks</b> & <b>RabbitMQ Outbox Pattern</b>.</li>
-        <li><b>High Performance</b>: Achieved sub-<b>5ms latency</b> through aggressive Redis caching layer; integrated Razorpay payments & automated cloud deployment.</li>
-      </ul>
-      <p align="center">
-        <code>Node.js</code> • <code>Redis</code> • <code>RabbitMQ</code> • <code>Microservices</code> • <code>Razorpay</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🎨 Visora — AI Content Creation Platform</h3>
-      <p align="center">
-        <a href="https://visora-eight.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-FF007A?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Visora" /></a>
-      </p>
-      <ul>
-        <li><b>AI Toolkit</b>: Developed a multi-tool generative AI suite with 5+ tools powered by Gemini AI, Clipdrop, and Cloudinary APIs.</li>
-        <li><b>SaaS Workflow</b>: Implemented JWT Auth, Role-Based Access Control (RBAC), tier subscriptions, and payment gateway integration.</li>
-        <li><b>Real-Time Community</b>: Built community interaction hubs with real-time updates supporting <b>100+ concurrent users</b>.</li>
-      </ul>
-      <p align="center">
-        <code>React</code> • <code>Gemini AI</code> • <code>Cloudinary</code> • <code>Node.js</code> • <code>MongoDB</code>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3 align="center">🎓 FlexCourses — Full-Stack E-Learning Platform</h3>
-      <p align="center">
-        <a href="https://flixcourses.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live FlexCourses" /></a>
-      </p>
-      <ul>
-        <li>Full-stack LMS built on MERN architecture with course creation, enrollment tracking, and automated email workflows.</li>
-        <li>Engineered <b>20+ robust REST APIs</b> with complete validation, payment gateway hooks (Razorpay), and optimized frontend bundle size by <b>40%</b>.</li>
-      </ul>
-      <p align="center">
-        <code>MongoDB</code> • <code>Express.js</code> • <code>React.js</code> • <code>Node.js</code> • <code>Razorpay</code>
-      </p>
-    </td>
-  </tr>
-</table>
+### ☁️ **SkyFlow — Cloud Booking Engine**
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00F7FF?style=for-the-badge&logo=vercel&logoColor=black)](https://sky-flow-frontend.vercel.app/)
+
+- 🧱 **Microservice Architecture**: Architected Node.js microservices behind an API Gateway to cleanly decouple search & booking modules.
+- 🔒 **Concurrency & Race Conditions**: Eliminated double-bookings under peak traffic using **Redis Distributed Locks** & **RabbitMQ Outbox Pattern**.
+- ⚡ **High Performance**: Achieved sub-**5ms latency** through aggressive Redis caching layer; integrated Razorpay payments & deployed on cloud infrastructure.
+- 🛠️ `Node.js` • `Redis` • `RabbitMQ` • `Microservices` • `Razorpay` • `Express`
+
+---
+
+### 🎨 **Visora — AI Content Creation Platform**
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF007A?style=for-the-badge&logo=vercel&logoColor=white)](https://visora-eight.vercel.app/)
+
+- 🤖 **AI Toolkit**: Developed a multi-tool generative AI suite with 5+ tools powered by Gemini AI, Clipdrop, and Cloudinary APIs.
+- 🔐 **SaaS Workflow**: Implemented JWT Auth, Role-Based Access Control (RBAC), tier subscriptions, and payment gateway integration.
+- 👥 **Real-Time Community**: Built community interaction hubs with real-time updates supporting **100+ concurrent users**.
+- 🛠️ `React` • `Gemini AI` • `Cloudinary` • `Node.js` • `MongoDB` • `Express`
+
+---
+
+### 🎓 **FlexCourses — Full-Stack E-Learning Platform**
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://flixcourses.vercel.app/)
+
+- 📚 Full-stack LMS built on MERN architecture with course creation, enrollment tracking, and automated email workflows.
+- 🚀 Engineered **20+ robust REST APIs** with complete validation, payment gateway hooks (Razorpay), and optimized frontend bundle size by **40%**.
+- 🛠️ `MongoDB` • `Express.js` • `React.js` • `Node.js` • `Razorpay` • `Mailtrap`
 
 ---
 
 ## 🛠️ Technical Skills
 
-<div align="center">
-
-### 💻 Programming Languages
-<p>
+<h3 align="center">💻 Programming Languages</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -140,16 +117,16 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 🌐 Frontend & Frameworks
-<p>
+<h3 align="center">🌐 Frontend & Frameworks</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
-### ⚙️ Backend & Messaging
-<p>
+<h3 align="center">⚙️ Backend & Messaging</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
@@ -158,15 +135,15 @@
   <img src="https://img.shields.io/badge/RESTful_APIs-0055DA?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-### 🗄️ Databases & Caching
-<p>
+<h3 align="center">🗄️ Databases & Caching</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
-### 🛠️ DevOps, AI & Tools
-<p>
+<h3 align="center">🛠️ DevOps, AI & Tools</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -175,21 +152,17 @@
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
 
-### 📚 Core CS Fundamentals
-<p>
+<h3 align="center">📚 Core CS Fundamentals</h3>
+<p align="center">
   <code>Object-Oriented Programming (OOPS)</code> •
   <code>Database Management Systems (DBMS)</code> •
   <code>Operating Systems (OS)</code> •
   <code>Computer Networks (CN)</code>
 </p>
 
-</div>
-
 ---
 
 ## 🏆 Competitive Programming & Coding Profiles
-
-<div align="center">
 
 | Platform | Stats / Achievement | Direct Profile Link |
 | :--- | :--- | :--- |
@@ -197,8 +170,6 @@
 | 🟢 **GeeksforGeeks** | **282 Points** | [<img src="https://img.shields.io/badge/GFG_Profile-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" />](https://auth.geeksforgeeks.org/user/aradhya0107be20) |
 | ⭐ **HackerRank** | C++ **5-Star** ⭐ • Java **4-Star** ⭐ • SQL **3-Star** ⭐ | [<img src="https://img.shields.io/badge/HackerRank_Profile-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />](https://hackerrank.com/aradhya_gargag89) |
 | 🏆 **CodeStudio** | **Champion Level** | [<img src="https://img.shields.io/badge/CodeStudio_Profile-FF6600?style=flat-square&logo=codingninjas&logoColor=white" />](https://codingninjas.com/codestudio/profile/Aradhya_23f4) |
-
-</div>
 
 ---
 
@@ -219,18 +190,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aradhyagarg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aradhyagarg&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aradhyagarg&theme=tokyo-night&hide_border=true" width="100%" />
-</p>
-
----
-
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aradhyagarg/Aradhyagarg/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
